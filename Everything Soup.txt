@@ -50,4 +50,4 @@ Soup:
     Salt
     Pepper
 -Throw in soup and simmer covered for 5 minutes
--Top off with infused butter.
+-Top off with infused butter
